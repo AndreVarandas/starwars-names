@@ -1,6 +1,6 @@
 {
   "name": "starwars-random-names",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get random star Wars names",
   "main": "src/index.js",
   "scripts": {
